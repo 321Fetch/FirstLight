@@ -1,0 +1,7 @@
+<resources>
+    <string name="twit_twitters">\@321Fetch</string>
+    <string name="twit_share_this_app">Share this app</string>
+    <string name="twit_about_blurb">Follow us on twitter and we’ll follow you back! Learn about our latest apps, suggest your ideas and see your twitter handle in our next app!</string>
+    <string name="twit_or_just_tweet">or, if you just wanted to tweet the app...</string>
+    <string name="twit_tweet_the_app">Tweet the App</string>
+</resources>
