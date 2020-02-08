@@ -1,0 +1,16 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="us.fetch321.firstlight">
+
+    <application>
+
+        <activity
+            android:name=".FirstLightActivity"
+            android:theme="@style/fl_FirstLightTheme.Translucent" />
+
+        <activity
+            android:name=".AttributionActivity"
+            android:theme="@style/fl_FirstLightTheme" />
+
+    </application>
+
+</manifest>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fl_twitter_blue">#55acee</color>
+    <color name="fl_scrim">#99323232</color>
+    <color name="fl_brand_background">#272727</color>
+    <color name="fl_pink">#fd2b52</color>
+    <color name="fl_white">#ffffff</color>
+    <color name="fl_orange">#ff7713</color>
+    <color name="fl_yellow">#ffa913</color>
+</resources>

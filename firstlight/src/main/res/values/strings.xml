@@ -1,0 +1,11 @@
+<resources>
+    <string name="fl_twitters">\@321Fetch</string>
+    <string name="fl_share_this_app">Share this app</string>
+    <string name="fl_about_blurb">Follow us on Twitter and we’ll follow you back! Learn about our latest apps, suggest your ideas and potentially see them come to life in our next app!</string>
+    <string name="fl_share_the_app">Share the App</string>
+    <string name="fl_attribution">Attribution</string>
+    <string name="fl_about_title">This app was created with big meme energy by</string>
+    <string name="fl_see_attribution">See Attribution</string>
+
+    <string name="app_name"/>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="fl_FirstLightTheme" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimary">@color/fl_yellow</item>
+        <item name="colorPrimaryDark">@color/fl_brand_background</item>
+        <item name="colorAccent">@color/fl_yellow</item>
+        <item name="android:windowBackground">@color/fl_brand_background</item>
+    </style>
+
+    <style name="fl_FirstLightTheme.Translucent">
+        <item name="android:windowBackground">@color/fl_scrim</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+</resources>

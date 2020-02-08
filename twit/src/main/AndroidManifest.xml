@@ -1,8 +1,0 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="us.fetch321.twit">
-
-    <application >
-        <activity android:name=".TwitActivity"
-            android:theme="@style/TwitTheme.Translucent"/>
-    </application>
-
-</manifest>
